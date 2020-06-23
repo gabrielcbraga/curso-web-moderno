@@ -1,7 +1,7 @@
 * [x] Introdução
 * [x] Configuração do Ambiente
 * [x] Fundamentos de JavaScript
-* [ ] Estruturas de Controle
+* [x] Estruturas de Controle
 * [ ] Função
 * [ ] Objeto
 * [ ] Array
